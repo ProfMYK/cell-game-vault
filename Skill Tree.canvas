@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"13d2f263e4aa7dac","x":-200,"y":-120,"width":250,"height":50,"type":"text","text":"[[Prokaryotic Cell]]"},
+		{"id":"bd1a68d3b02092a5","x":200,"y":-120,"width":250,"height":50,"type":"text","text":"[[Heterotroph]]"}
+	],
+	"edges":[]
+}

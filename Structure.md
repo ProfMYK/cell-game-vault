@@ -1,0 +1,1 @@
+[[Structure]] is how well structured the cell is. It is a value between 100 and 0. Some things in the game like mutating or creating a new component requires the cell to have a high [[Structure]] value.
